@@ -1,10 +1,27 @@
+# System
 .DS_Store
+
+# Dependencies
 node_modules
+
+# Build y artifacts
 /build
 /.svelte-kit
 /package
+
+# env var
 .env
 .env.*
 !.env.example
+
+# config
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# local development files
+.dev/
+
+# IDE
+.vscode/
+.idea/
+
