@@ -1,16 +1,16 @@
 <div align="center">
 
-# inkling
+-# inkling
 
-**Markdown, without the noise.**
++<img src="./assets/logo.png" alt="inkling — Markdown, without the noise" width="480">
 
-[![status](https://img.shields.io/badge/status-early%20development-blue)]()
-[![platform](https://img.shields.io/badge/platform-linux-informational)]()
-[![license](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+ [![status](https://img.shields.io/badge/status-early%20development-blue)]()
+ [![platform](https://img.shields.io/badge/platform-linux-informational)]()
+ [![license](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
-[English](./README.md) | [Español](./README.es.md)
+ [English](./README.md) | [Español](./README.es.md)
 
-</div>
+ </div>
 
 <!-- TODO: add a screenshot or gif of the editor here once there's something stable to show -->
 
